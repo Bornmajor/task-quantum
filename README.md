@@ -1,4 +1,11 @@
-# Task Quantum
+
+
+
+
+
+# Task Quantum  
+
+
 Task Quantum is a powerful task manager application built with React and Firebase Firestore. It features user authentication, task tracking based on due dates, task status monitoring, tagging, and progress tracking for an enhanced user experience.
 
 ## Features
